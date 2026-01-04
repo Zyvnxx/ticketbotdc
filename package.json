@@ -1,0 +1,24 @@
+{
+  "name": "discord-ticket-bot",
+  "version": "2.0.0",
+  "description": "Discord Ticket Bot tanpa database",
+  "main": "botdcV2.js",
+  "scripts": {
+    "start": "node botdcV2.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "ticket",
+    "support"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
