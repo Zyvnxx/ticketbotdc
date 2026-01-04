@@ -115,9 +115,9 @@ global.client = client;
 
 const config = {
   prefix: '!',
-  ticketCategory: 'TICKETS',
+  ticketCategory: '── 「 ✦ ! ORDER  ! ✦ 」──',
   adminRole: 'KING',
-  logChannel: 'ticket-logs',
+  logChannel: 't┊・✨﹕ticket﹒logs',
   supportRoles: ['Support', 'Moderator'],
 };
 
