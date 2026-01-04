@@ -357,7 +357,7 @@ async function setupTicketSystem(message) {
   });
   
   // Create log channel if doesn't exist
-  const logChannelName = 'ticket-logs';
+  const logChannelName = '┊・✨﹕ticket﹒logs';
   let logChannel = message.guild.channels.cache.find(c => 
     c.name === logChannelName && c.type === ChannelType.GuildText
   );
