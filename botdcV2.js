@@ -117,7 +117,7 @@ const config = {
   prefix: '!',
   ticketCategory: '── 「 ✦ ! ORDER  ! ✦ 」──',
   adminRole: 'KING',
-  logChannel: 't┊・✨﹕ticket﹒logs',
+  logChannel: '┊・✨﹕ticket﹒logs',
   supportRoles: ['Support', 'Moderator'],
 };
 
