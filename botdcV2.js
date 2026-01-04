@@ -40,9 +40,9 @@ const RATE_LIMIT = {
 
 // URL gambar untuk embed
 const embedImages = {
-    supportSystem: 'https://image2url.com/r2/default/images/1767530965318-d619c620-a533-4eeb-8330-6ff815f21c87.blob',
-    ticketLogs: 'https://i.imgur.com/6bqR3yJ.png',
-    ticketClosed: 'https://i.imgur.com/9QJ7k4F.png'
+    supportSystem: 'https://image2url.com/r2/default/images/1767535768451-bff62cab-083a-41c1-961d-e4a237ae8808.blob',
+    ticketLogs: 'https://image2url.com/r2/default/images/1767535768451-bff62cab-083a-41c1-961d-e4a237ae8808.blob',
+    ticketClosed: 'https://image2url.com/r2/default/images/1767535768451-bff62cab-083a-41c1-961d-e4a237ae8808.blob'
 };
 
 // Helper functions
